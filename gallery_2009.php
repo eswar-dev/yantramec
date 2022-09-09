@@ -14,7 +14,7 @@ require_once "components/database.php";
 <html lang="en">
 
 <head>
-    <title>Yantra 2015</title>
+    <title>Yantra-2015</title>
 
     <?php require_once 'components/links.php'; ?>
     <link rel="preconnect" href="https://fonts.googleapis.com">
